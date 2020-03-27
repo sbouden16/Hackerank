@@ -1,0 +1,189 @@
+[33mcommit 6f55409663c801a4cf80f06c043daa4153559dbc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sbouden16 <40170054+sbouden16@users.noreply.github.com>
+Date:   Fri Feb 14 18:23:07 2020 +0100
+
+    update of file
+
+[33mcommit f0b49a2c4c281339e6f345012a6595ba9a80f75f[m
+Author: sbouden16 <40170054+sbouden16@users.noreply.github.com>
+Date:   Fri Feb 14 13:57:59 2020 +0100
+
+    updates
+
+[33mcommit a0c581202eebfb368421cd71db7afa82a5485a1b[m
+Author: sbouden16 <40170054+sbouden16@users.noreply.github.com>
+Date:   Tue Feb 11 14:34:06 2020 +0100
+
+    Update of app_api.py
+
+[33mcommit 59c99cd0b5583c5b0e06d9de6f979c58725fc188[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Fri Feb 7 16:53:57 2020 +0100
+
+    Upload of own API-REST FLASK task
+
+[33mcommit 481b62174416b5e89efd229c4672d50a5414a481[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Fri Feb 7 16:47:27 2020 +0100
+
+    fix of bad upload
+
+[33mcommit e0512b66feca781fe61c73cd3a62dc82389ba0a1[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Fri Feb 7 16:45:35 2020 +0100
+
+    Adding of own API-REST FLASK exercise updated
+
+[33mcommit 2fe17eba8667ce11ceb00e6b346de7e695991666[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Thu Feb 6 17:38:57 2020 +0100
+
+    Upload of API-FLASK exercise
+
+[33mcommit 5e5a7d8974357c1f3f3d6821614546571b85d54a[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Wed Feb 5 15:55:16 2020 +0100
+
+    New update of code. None working still
+
+[33mcommit 9c8c1c1f9fdb0c0c99be828ac1f66f50c360bc62[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Tue Feb 4 15:11:57 2020 +0100
+
+    more
+
+[33mcommit e23b0c2c7b8aac1bd6f0fabaccae0e77dce54997[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Tue Feb 4 15:10:39 2020 +0100
+
+    update
+
+[33mcommit 6ce68232ea874ddddd766685e5c97b526a17880e[m
+Author: sbouden16 <40170054+sbouden16@users.noreply.github.com>
+Date:   Tue Feb 4 14:46:26 2020 +0100
+
+    Update API_GCP.py
+
+[33mcommit 77086b4ad8061da4ac706315602189e7ca1ad78d[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Tue Feb 4 14:31:08 2020 +0100
+
+    GCP_API code. Erro list object has no attribute any
+
+[33mcommit 3236c4dcc4e4edd742a708f9f4ecdfd6f760842c[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Mon Feb 3 16:32:37 2020 +0100
+
+    erase
+
+[33mcommit c882b9e92c5aa3cd7e8598bdbdc61249e6c92bda[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Mon Feb 3 16:31:45 2020 +0100
+
+    test
+
+[33mcommit 3c47dad938de91a9ffe7589c769a84e8820c81b5[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Thu Jan 30 19:05:31 2020 +0100
+
+    number of movement sort finishes
+
+[33mcommit 6d91cd3a53988eb238384ab9c64428e3fcfba610[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Wed Jan 29 13:49:11 2020 +0100
+
+    add of head string
+
+[33mcommit ff1be4d8c192fade60cb7989dcca0a74ae6f96fc[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Fri Jan 24 14:13:50 2020 +0100
+
+    adding number of movement. Not fishided
+
+[33mcommit 0a01b52d5519bf3fdb63bb9cba21ec1052dc92e7[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Fri Jan 17 18:00:13 2020 +0100
+
+    stepPerms solved using a dict
+
+[33mcommit c2f1f65b0633b81485dbb7afcff9bb50d6263408[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Thu Jan 16 15:21:36 2020 +0100
+
+    separation of fibonacci and stepPerms file and upload
+
+[33mcommit ab0d7c682946393aa7bb067d7ff812b377ada12c[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Thu Jan 16 15:19:55 2020 +0100
+
+    upload of stepPerms
+
+[33mcommit 3ccdd013fcf3c84bb1e419bcddbf41bfce52a2f5[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Wed Jan 15 14:00:38 2020 +0100
+
+    Upload of fibonnaci file
+
+[33mcommit 06cbda29d57776e45551262eda9b4cf36c0d9799[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Mon Jan 13 14:04:45 2020 +0100
+
+    Add repeated_string.py to the repository
+
+[33mcommit cbb2ef4fbd92b670497d45148ff681d0a4d158b2[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Fri Dec 20 23:18:16 2019 +0100
+
+    Added test metod for several cases
+
+[33mcommit 981923462fd2de03690f4e4a82185636ab0a8454[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Fri Dec 20 23:06:29 2019 +0100
+
+    repeated_strings task completed and submitted on haker rank
+
+[33mcommit 283c926afdc2855a486bea7a3e149f8a544b769f[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Fri Dec 20 19:28:25 2019 +0100
+
+    uplaid of hackerrank exercise repeated_string. Not completed-Need help to finish
+
+[33mcommit d215ffb4a4e76a94a848f69c15199dd20e1b4bfe[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Fri Dec 20 17:08:13 2019 +0100
+
+    Upload of jumpingcloud code
+
+[33mcommit 35526d7d93c702a3cec5cbdf9d634d1595bcf2e4[m[33m ([m[1;32m7d98898b2712f6b8b2d36d4bda6eae3912f6b73e[m[33m)[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Fri Dec 20 16:57:31 2019 +0100
+
+    Mdification of jumping clouds problem
+
+[33mcommit 7d98898b2712f6b8b2d36d4bda6eae3912f6b73e[m
+Author: Sergio Cortes <sbouden16@gmail.com>
+Date:   Wed Dec 18 17:12:54 2019 +0100
+
+    initial push of hackerrank
+
+[33mcommit ccce3a3a9d94ea235c64378bc8424a7deafb722d[m
+Author: sbouden16 <40170054+sbouden16@users.noreply.github.com>
+Date:   Mon Dec 9 15:46:52 2019 +0100
+
+    Delete Countries data.py
+    
+    Deleted file
+
+[33mcommit 166acb9c9afb0d06bbe07c3c4bc8543db5a8a1a6[m
+Author: sbouden16 <40170054+sbouden16@users.noreply.github.com>
+Date:   Mon Dec 9 15:43:36 2019 +0100
+
+    Add files via upload
+    
+    new test
+
+[33mcommit 047f363dd48e56f1a4c7393dd57c3526b60fb571[m
+Author: sbouden16 <40170054+sbouden16@users.noreply.github.com>
+Date:   Mon Dec 9 14:10:31 2019 +0100
+
+    Initial commit
